@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\VolleyballGameCalculator\bin\Debug\net7.0\VolleyballGameCalculator.exe
+C:\Users\User\RiderProjects\VolleyballGameCalculator\bin\Debug\net7.0\VolleyballGameCalculator.deps.json
+C:\Users\User\RiderProjects\VolleyballGameCalculator\bin\Debug\net7.0\VolleyballGameCalculator.runtimeconfig.json
+C:\Users\User\RiderProjects\VolleyballGameCalculator\bin\Debug\net7.0\VolleyballGameCalculator.dll
+C:\Users\User\RiderProjects\VolleyballGameCalculator\bin\Debug\net7.0\VolleyballGameCalculator.pdb
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.AssemblyInfo.cs
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.dll
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\refint\VolleyballGameCalculator.dll
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.pdb
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\VolleyballGameCalculator.genruntimeconfig.cache
+C:\Users\User\RiderProjects\VolleyballGameCalculator\obj\Debug\net7.0\ref\VolleyballGameCalculator.dll
